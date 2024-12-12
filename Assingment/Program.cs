@@ -110,6 +110,15 @@ namespace Assingment
             //}
             #endregion
 
+            #region Q8)Write a program that allows to user to insert number then print all even numbers between 1 to this number
+            //Console.Write("Enter a Number Please :");
+            //int.TryParse(Console.ReadLine(), out int Number);
+            //for (int i = 1; i <= Number; i++) {
+            //    if (i % 2 == 0)
+            //        Console.Write($"{i} ");
+            //}
+
+            #endregion
 
         }
 
