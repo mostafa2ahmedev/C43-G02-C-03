@@ -64,6 +64,31 @@ namespace Assingment
             //    Console.WriteLine("Odd");
             #endregion
 
+            #region Q5)Write a program that takes character from the user then if it is a vowel chars(a, e, I, o, u) then print(vowel) otherwise print(consonant).
+
+            //Console.Write("Enter a Character please: ");
+            //char.TryParse(Console.ReadLine(), out char charactar);
+
+            //switch (charactar) {
+            //    case 'a':
+            //    case 'A':
+            //    case 'e':
+            //    case 'E':
+            //    case 'o':
+            //    case 'O':
+            //    case 'i':
+            //    case 'I':
+            //    case 'u':
+            //    case 'U':
+            //        Console.WriteLine("Vowel");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Consonant");
+            //        break;
+            //}
+
+            #endregion
+
 
 
         }
