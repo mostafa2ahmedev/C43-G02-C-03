@@ -89,6 +89,17 @@ namespace Assingment
 
             #endregion
 
+            #region Q6)Write a program that allows the user to insert an integer then print all numbers between 1 to that number.
+
+            //Console.Write("Enter a Number please: ");
+            //int.TryParse(Console.ReadLine(), out int Number);
+
+            //for (int i = 1; i <= Number; i++) {
+            //    Console.Write(i);
+            //    if(i!=Number)
+            //        Console.Write(",");
+            //}
+            #endregion
 
 
         }
