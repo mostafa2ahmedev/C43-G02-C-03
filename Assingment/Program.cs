@@ -148,10 +148,45 @@ namespace Assingment
             //}
 
             //Console.WriteLine($"Total marks is {total}, Avg marks is {total / arr.Length},Percentage is {(float) total / (arr.Length * 100) * 100}");
-      
-            #endregion
-        }
 
-    }
-    }
+            #endregion
+
+            #region Q11)Write a program to input the month number and print the number of days in that month.
+            //Console.Write("Enter the Month Number please : ");
+            //int.TryParse(Console.ReadLine(), out int MonthNumber);
+            //Console.Write("Enter the year please : ");
+            //int.TryParse(Console.ReadLine(), out int year);
+
+            //switch (MonthNumber) {
+            //    case 1:
+            //    case 3:
+            //    case 5:
+            //    case 7:
+            //    case 8:
+            //    case 10:
+            //    case 12:
+            //        Console.WriteLine("Number of days is 31");
+            //        break;
+            //    case 4:
+            //    case 6:
+            //    case 9:
+            //    case 11:
+            //        Console.WriteLine("Number of days is 30");
+            //        break;
+            //    case 2:
+            //        if (year % 4 == 0 && (year % 100 != 0 || year % 400 == 0))
+            //            Console.WriteLine("Number of days is 29");
+            //        else
+            //            Console.WriteLine("Number of days is 28");
+            //        break;
+
+            }
+
+            #endregion
+
+            }
+
+        }
+    
+
 
