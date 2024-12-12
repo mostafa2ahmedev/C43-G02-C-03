@@ -120,6 +120,22 @@ namespace Assingment
 
             #endregion
 
+
+            #region Q9)Write a program that takes two integers then prints the power.
+            //Console.Write("Enter a Number Please :");
+            //int.TryParse(Console.ReadLine(), out int Number);
+            //Console.Write("Enter the power Please :");
+            //int.TryParse(Console.ReadLine(), out int Power);
+            // int result=1;
+            //for (int i = 0; i < Power; i++) {
+
+            //    result = result * Number;
+
+            //}
+            //Console.WriteLine(result);
+            #endregion
+
+
         }
 
     }
