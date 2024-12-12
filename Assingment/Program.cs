@@ -1,4 +1,7 @@
-﻿using static System.Runtime.InteropServices.JavaScript.JSType;
+﻿using System.Reflection.Metadata;
+using System.Security.Cryptography;
+using System.Xml.Linq;
+using static System.Runtime.InteropServices.JavaScript.JSType;
 
 namespace Assingment
 {
@@ -30,6 +33,29 @@ namespace Assingment
 
             #endregion
 
+
+            #region Q3)Write a program that takes 3 integers from the user then prints the max element and the min element.
+            //int []arr=new int[3];
+          
+            //for (int i = 0; i < 3; i++) {
+            //    Console.Write($"Enter the {i+1} Number: ");
+            //    int.TryParse(Console.ReadLine(), out arr[i]);
+            //}
+
+            //int min= arr[0];
+            //int max = arr[0];
+            //for (int i = 0; i < 3; i++) { 
+            //    if (arr[i] <min)
+            //        min = arr[i];   
+            //    if (arr[i] > max )
+            //        max= arr[i];    
+            //}
+            //Console.WriteLine($"Max Number is {max},Min Number is {min}");
+            #endregion
+
+
         }
+
     }
-}
+    }
+
