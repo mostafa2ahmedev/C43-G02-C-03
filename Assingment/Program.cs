@@ -180,13 +180,58 @@ namespace Assingment
             //            Console.WriteLine("Number of days is 28");
             //        break;
 
-            }
+            //}
 
             #endregion
 
+            #region Q12)Write a program to create a Simple Calculator.
+            //Console.Write("Please enter the first number:");
+
+            //double.TryParse(Console.ReadLine(),out double FNumber);
+
+            //Console.Write("Please enter the second number:");
+            //double.TryParse(Console.ReadLine(), out double SNumber);
+
+            //Console.WriteLine("Addition (+)");
+            //Console.WriteLine("Subtraction (-)");
+            //Console.WriteLine("Multiplication (*)");
+            //Console.WriteLine("Division (/)");
+
+            //char.TryParse(Console.ReadLine(),out char choice);
+            //double result = 0;
+            //switch (choice)
+            //{
+            //    case '+':
+            //        result = FNumber + SNumber;
+            //        Console.WriteLine($"Result: {FNumber} + {SNumber} = {result}");
+            //        break;
+            //    case '-':
+            //        result = FNumber - SNumber;
+            //        Console.WriteLine($"Result: {FNumber} - {SNumber} = {result}");
+            //        break;
+            //    case '*':
+            //        result = FNumber * SNumber;
+            //        Console.WriteLine($"Result: {FNumber} * {SNumber} = {result}");
+            //        break;
+            //    case '/':
+            //        if (SNumber != 0)
+            //        {
+            //            result = FNumber / SNumber;
+            //            Console.WriteLine($"Result: {FNumber} / {SNumber} = {result}");
+            //        }
+            //        else
+            //            Console.WriteLine("Not allowed");
+
+            //        break;
+            //    default:
+            //        Console.WriteLine("Please select a valid operation");
+            //        break;
+
+            }
+
+                #endregion
             }
 
         }
-    
-
+    }
 
