@@ -135,7 +135,21 @@ namespace Assingment
             //Console.WriteLine(result);
             #endregion
 
+            #region Q10)Write a program to enter marks of five subjects and calculate total, average and percentage.
+            //int[] arr = new int[5];
+            //int total=0;
+            //for (int i = 0; i < 5; i++)
+            //{
+            //    Console.Write($"Enter the {i + 1} Mark: ");
+            //    int.TryParse(Console.ReadLine(), out arr[i]);
+            //}
+            //for (int i = 0; i < arr.Length; i++) {
+            //    total += arr[i];
+            //}
 
+            //Console.WriteLine($"Total marks is {total}, Avg marks is {total / arr.Length},Percentage is {(float) total / (arr.Length * 100) * 100}");
+      
+            #endregion
         }
 
     }
