@@ -36,7 +36,7 @@ namespace Assingment
 
             #region Q3)Write a program that takes 3 integers from the user then prints the max element and the min element.
             //int []arr=new int[3];
-          
+
             //for (int i = 0; i < 3; i++) {
             //    Console.Write($"Enter the {i+1} Number: ");
             //    int.TryParse(Console.ReadLine(), out arr[i]);
@@ -52,6 +52,18 @@ namespace Assingment
             //}
             //Console.WriteLine($"Max Number is {max},Min Number is {min}");
             #endregion
+
+            #region Q4)Write a program that allows the user to insert an integer number then check If a number is even or odd.
+
+            //Console.Write("Enter a Number please: ");
+            //int.TryParse(Console.ReadLine(), out int Number);
+
+            //if(Number %2 == 0)
+            //    Console.WriteLine("Even");
+            //else
+            //    Console.WriteLine("Odd");
+            #endregion
+
 
 
         }
